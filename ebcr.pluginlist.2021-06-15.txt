@@ -1,0 +1,92 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.9.0
+  http://backwpup.com
+  Blog Name: ebcr
+  Blog URL: http://ebcr.resiliencebv.com
+  Generated on: 2021-06-15 13:31.46
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.4.1.9) from Automattic
+	https://akismet.com/
+All-in-One WP Migration (v.7.44) from ServMask
+	https://servmask.com/
+BackWPup (v.3.9.0) from Inpsyde GmbH
+	http://backwpup.com
+Classic Editor (v.1.6) from WordPress Contributors
+	https://wordpress.org/plugins/classic-editor/
+Contact Form 7 (v.5.4.1) from Takayuki Miyoshi
+	https://contactform7.com/
+Duplicator (v.1.4.1) from Snap Creek
+	https://snapcreek.com/duplicator/duplicator-free/
+Elementor (v.3.1.4) from Elementor.com
+	https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash
+Elementor - Header, Footer & Blocks (v.1.5.9) from Brainstorm Force, Nikhil Chavan
+	https://github.com/Nikschavan/header-footer-elementor
+Elementor Addon Elements (v.1.11.5) from WPVibes
+	https://www.elementoraddons.com/elements-addon-elements/
+Elementor Pro (v.3.2.0) from Elementor.com
+	https://elementor.com/
+Essential Addons for Elementor (v.4.6.6) from WPDeveloper
+	https://essential-addons.com/elementor/
+EventON (v.3.1.5) from AshanJay
+	http://www.myeventon.com/
+Health Check & Troubleshooting (v.1.4.5) from The WordPress.org community
+	https://wordpress.org/plugins/health-check/
+HT Mega - Absolute Addons for Elementor Page Builder (v.1.5.9) from HasThemes
+	http://demo.wphash.com/htmega/
+HubSpot All-In-One Marketing - Forms, Popups, Live Chat (v.8.0.227) from HubSpot
+	http://www.hubspot.com/integrations/wordpress
+Insert PHP Code Snippet (v.1.3.2) from xyzscripts.com
+	http://xyzscripts.com/wordpress-plugins/insert-php-code-snippet/
+Navigation Tree Elementor (v.1.0.1) from WP Distillery
+	https://wp-distillery.com
+New User Approve (v.1.9.1) from NewUserApprove
+	http://newuserapprove.com/
+Ultimate Member (v.2.1.20) from Ultimate Member
+	http://ultimatemember.com/
+Unlimited Elements for Elementor (v.1.4.73) from Unlimited Elements
+	http://unlimited-elements.com
+User Menus (v.1.2.5) from Code Atlantic
+	https://wordpress.org/plugins/user-menus/
+Visibility Logic for Elementor (v.1.2.0) from SeventhQueen
+	https://wordpress.org/plugins/visibility-logic-elementor
+W3 Total Cache (v.2.1.2) from BoldGrid
+	https://www.boldgrid.com/totalcache/
+WordPress Importer (v.0.7) from wordpressdotorg
+	https://wordpress.org/plugins/wordpress-importer/
+WP User Avatar (v.2.2.16) from ProfilePress
+	http://wordpress.org/plugins/wp-user-avatar/
+
+Active plugins:
+------------------------------
+All-in-One WP Migration
+BackWPup
+Classic Editor
+Contact Form 7
+Duplicator
+Elementor
+Elementor - Header, Footer & Blocks
+Elementor Addon Elements
+Elementor Pro
+Essential Addons for Elementor
+EventON
+Health Check & Troubleshooting
+HT Mega - Absolute Addons for Elementor Page Builder
+HubSpot All-In-One Marketing - Forms, Popups, Live Chat
+Insert PHP Code Snippet
+Navigation Tree Elementor
+Ultimate Member
+Unlimited Elements for Elementor
+User Menus
+Visibility Logic for Elementor
+W3 Total Cache
+WordPress Importer
+
+Inactive plugins:
+------------------------------
+Akismet Anti-Spam
+New User Approve
+WP User Avatar
